@@ -33,4 +33,8 @@ torchaudio==0.13.0
 torchvision==0.14.0	
 tqdm==4.66.1	
 ```
+# MIM:
+For information on masking strategy, please refer to the MIM.py file
+# LOSS:
+For information about LOSS of our training code, please refer to the loss.py file
 
