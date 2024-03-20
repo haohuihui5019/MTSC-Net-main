@@ -19,20 +19,18 @@ follow the file "process_new_shoots.py" to produce the ground-truth density map,
 
 # Requirments
 ```
-h5py	3.10.0	
-numpy	1.22.4	
-onnx	1.15.0	
-opencv	4.6.0	
-opencv-python	4.9.0.80	
-pillow	9.5.0	
-pip	23.3.2	
-python	3.8.18	
-pytorch	1.13.0	
-scikit-image	0.21.0	
-scipy	1.10.1	
-timm	0.9.12	
-torchaudio	0.13.0	
-torchvision	0.14.0	
-tqdm	4.66.1	
+h5py==3.10.0	
+numpy==1.22.4	
+onnx==1.15.0	
+opencv-python==4.9.0.80	
+pillow==9.5.0	
+python==3.8.18	
+pytorch==1.13.0	
+scikit-image==0.21.0	
+scipy==1.10.1	
+timm==0.9.12	
+torchaudio==0.13.0	
+torchvision==0.14.0	
+tqdm==4.66.1	
 ```
 
